@@ -1,0 +1,9 @@
+{
+  "extends": [
+    "universe/native",
+    "plugin:react-hooks/recommended"
+  ],
+  "plugins": [
+    "react-hooks"
+  ]
+}
